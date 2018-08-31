@@ -14,6 +14,11 @@
   * CSS Flexbox
   * CSS Grid
   * Responsive Web Design Projects
+    1. Build a Tribute page
+    2. Build a Survey page
+    3. Build a Product landing page
+    4. Build a Technical Documentation page
+    5. Build a Personal Portfolio Webpage
 
 ## Javascript Algorithms And Data Structures Certification (300 hours)
 ## Front End Libraries Certification (300 hours)
