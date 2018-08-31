@@ -3,9 +3,9 @@
   We have thousands of coding lessons to help you improve your skills.
 
   You can earn each certification by completing its 5 final projects.
-  
+
   Take a look at my online profile: https://www.freecodecamp.org/stroupjason
-  
+
 ## Responsive Web Design Certification (300 hours)
   * Basic HTML and HTML5
   * Basic CSS
@@ -14,7 +14,7 @@
   * CSS Flexbox
   * CSS Grid
   * Responsive Web Design Projects
-  
+
 ## Javascript Algorithms And Data Structures Certification (300 hours)
 ## Front End Libraries Certification (300 hours)
 ## Data Visualization Certification (300 hours)
